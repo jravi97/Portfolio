@@ -1,121 +1,54 @@
----
-layout: default
----
+# Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### PROFESSIONAL SUMMARY 
+Responsible Survey Programmer, passionate about delivering outstanding quality Scripts within Market research industry. Offering 1year of experience in the expert delivery of Scripts and Reports. <br/>
 
-[Link to another page](./another-page.html).
+### EXPERIENCE
+#### LENOVO
+(02/2021 – Present) EFM ADMINISTRATOR <br/>
+• Working on a tool called “Confirmit” to give the best customer experience support. <br/>
+• Knowledge on “Confirmit Development Language” (CDL code) which is the combination of oops and JavaScript.<br/>
+• CDL is used to create dashboards which helps to go deep into customer experience.<br/>
+• Creating surveys and recording results to meet the customer expectations.<br/>
+• Having knowledge on other tools that are used within the company like "Mypitch”, "Tiger", "Clara bridge".<br/>
+#### KANTAR 
+(06/2019 – 06/2020) QUALITY ANALYST<br/>
+• 1 year of experience in Manual Testing using “Nipo” tool and Web browser.<br/>
+• Administrated internal surveys and tabulated results to increase visibility. Implemented test scripts and recorded results.<br/>
+• Collaborated with management to provide training on improved training processed and assist with creation and maintenance of quality training.<br/>
+• Frequently performed quality assurance tests to discover errors and optimize usability.<br/>
 
-There should be whitespace between paragraphs.
+### CORE QUALIFICATIONS 
+Programming Languages: JavaScript, JQuery, Java <br/>
+Web Programming: HTML5, CSS3, Bootstrap, WordPress, ReactJs <br/>
+Database: SQL, MySQL, Php<br/>
+Tools: NetBeans, MS Suite, Nipo, Confirmit<br/>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### EDUCATION 
+2019 Bachelor of Engineering: Information science and technology 
+SEA College of Engineering and Technology －7.3 CGPA 
+2015 PUC: PCMC 
+St. Charles PU College －72.5% 
+2013 SSLC
+Infant Jesus High School － 81.44% 
 
-# Data Science
+### PERSONAL SKILLS
+Always Honest, Prompt Behaviour, solidarity.
 
-Persuring data science program on upgrad platform to become a data scientist expert.
+### PERSONAL PROFILE
+Father's Name: R Ravi 
+Mother's Name: Sujina P 
+Nationality: Indian 
+Date of Birth: 5th Mar 1997 
+Languages: English, Kannada, Tamil, Telugu, Hindi, French. 
+Interests: Novels, watching movies, Acting, online courses.
 
-## ConfirmIT Designer
+### CERTIFICATIONS 
+• Completed “Explainable Artificial Intelligence” on LinkedIn Learning.<br/> 
+• Completed “Web Development” on Udemy. <br/>
+• Completed “JSP, Servlets and JDBC” on Udemy. <br/>
+• Participated in “Data Science & Network Security” workshop at S.E.A College of Engineering. <br/>
+• Participated in “Big Data Analysis” workshop at Course Cube Institute. <br/>
+• Participated in “IoT & its Application” workshop at S.E.A College of Engineering. <br/>
+• Participated in “Ethical Hacking & Cyber Security” workshop at New Horizon College of Engineering. 
 
-Lenovo.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
