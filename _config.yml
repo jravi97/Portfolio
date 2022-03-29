@@ -1,16 +1,13 @@
-title: <p align="center"> Jeevitha Ravi </p>
+title: <p> Jeevitha Ravi </p>
 logo: /assets/img/mypic.jpg
 description:
-  <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="www.linkedin.com/in/jeevitha-ravi">LinkedIn</a> |
   <a href="https://github.com/jravi97">GitHub</a>
-  
   <br>   
   I'm working in Market research field holding 2.1 years of experience in different tools like NIPO, ConfirmIT, Qualtrics etc.
   <br>
   </p>
-
 <br/>
 
 theme: jekyll-theme-minimal
